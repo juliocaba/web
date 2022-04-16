@@ -1,0 +1,3 @@
+RewriteEngine on
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\\ /index\\.html\\ HTTP/
+RewriteRule ^index\\.html$ https://juliocaba.000webhostapp.com/ [R=301,L]
