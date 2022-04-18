@@ -10571,7 +10571,7 @@ html {
 }
 
 hr.divider {
-  max-width: 4.25rem;
+  max-width: 10em;
   border-width: 0.2rem;
   border-color: #266f9b;
 }
